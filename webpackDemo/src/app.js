@@ -1,2 +1,2 @@
 var sum = require('./sum');
-console.log(sum(1,3));
+console.log(sum(4,9));
